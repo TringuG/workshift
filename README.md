@@ -61,6 +61,8 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ### Built With
 
 - [TailwindCSS](https://tailwindcss.com/)
+- [SvelteKIT](https://kit.svelte.dev/)
+- [AppwriteCMS](https://github.com/Meldiron/appwrite-cms)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
